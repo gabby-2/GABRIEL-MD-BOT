@@ -9281,29 +9281,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">  
   <a href="https://i.ibb.co/tPpJCCs/254-716-427334-20250112-130513.jpg">
     <img alt="secktor docs" height="300" src="https://i.ibb.co/tPpJCCs/254-716-427334-20250112-130513.jpg">
@@ -9315,7 +9292,7 @@
 
 ---
 ***
-<a href="https://github.com/devibraah/BWM-XMD"><img src="https://img.shields.io/badge/OPEN%20MAIN%20REPO-blue" alt="OPEN_MAIN_REPO" width="270"></a>
+<a href="https://www.instagram.com/gabriel.te.ch?igsh=MWQ3ZW9iYjQ5c3Zqdg=="><img src="https://img.shields.io/badge/OPEN%20MAIN%20REPO-blue" alt="FOLLOW ME INSTAGRAM " width="270"></a>
 
 
   ***
