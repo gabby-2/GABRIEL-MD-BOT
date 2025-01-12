@@ -9305,8 +9305,8 @@
 
 
 <p align="center">  
-  <a href="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
+  <a href="https://i.ibb.co/tPpJCCs/254-716-427334-20250112-130513.jpg">
+    <img alt="secktor docs" height="300" src="https://i.ibb.co/tPpJCCs/254-716-427334-20250112-130513.jpg">
     <h1 align="center"> GABRIEL-MD MADE BY GABRIEL TECH</h1>
   </a>
 </p>  
