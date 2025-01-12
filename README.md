@@ -9292,7 +9292,7 @@
 
 ---
 ***
-<a href="https://www.instagram.com/gabriel.te.ch?igsh=MWQ3ZW9iYjQ5c3Zqdg=="><img src="https://img.shields.io/badge/OPEN%20MAIN%20REPO-blue" alt="FOLLOW ME INSTAGRAM " width="270"></a>
+<a href="https://www.instagram.com/gabriel.te.ch?igsh=MWQ3ZW9iYjQ5c3Zqdg=="><img src="https://img.shields.io/badge/OPEN%20MAIN%20REPO-blue" alt="FOLLOW ME INSTAGRAM" width="270"></a>
 
 
   ***
