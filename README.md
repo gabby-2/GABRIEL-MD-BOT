@@ -14,7 +14,7 @@
 
 ---
 
-**Empower innovation and creativity!** Become a sponsor of Silva Tech Inc to help us bring more amazing projects to life. Your support makes a big difference.  
+**Empower innovation and creativity!** Become a sponsor of Gabriel Tech Inc to help us bring more amazing projects to life. Your support makes a big difference.  
 👉 [Click here to sponsor us](https://github.com/sponsors/SilvaTechB)
 
 
@@ -31,7 +31,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="150" width="100%">
 
-### We ❤️ Silva MD Bot
+### We ❤️ Gabril MD Bot
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
